@@ -1,0 +1,12 @@
+{
+  "name": "com.hyperskill.unity-input",
+  "version": "1.0.1",
+  "displayName": "unity-input",
+  "description": "An Unity package for testing input via virtual input devices.",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "documentationUrl": "https://example.com/",
+  "changelogUrl": "https://example.com/changelog.html",
+  "type": "tool",
+  "hideInEditor": true
+}
